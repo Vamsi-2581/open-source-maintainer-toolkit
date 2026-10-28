@@ -7,12 +7,13 @@ A practical playbook for running a healthy open-source project, from triage to r
 ## Table of Contents
 
 1. [Your Role as Maintainer](#your-role-as-maintainer)
-2. [Triage Workflow](#triage-workflow)
-3. [Scoping Issues for Drips Wave](#scoping-issues-for-drips-wave)
-4. [Reviewing Pull Requests](#reviewing-pull-requests)
-5. [Communication Templates](#communication-templates)
-6. [Burnout Prevention](#burnout-prevention)
-7. [Metrics That Matter](#metrics-that-matter)
+2. [Publishing a Roadmap](#publishing-a-roadmap)
+3. [Triage Workflow](#triage-workflow)
+4. [Scoping Issues for Drips Wave](#scoping-issues-for-drips-wave)
+5. [Reviewing Pull Requests](#reviewing-pull-requests)
+6. [Communication Templates](#communication-templates)
+7. [Burnout Prevention](#burnout-prevention)
+8. [Metrics That Matter](#metrics-that-matter)
 
 ---
 
@@ -29,6 +30,14 @@ Core responsibilities:
 - Protect the project’s values and code of conduct
 
 You do **not** have to write every line of code.
+
+---
+
+## Publishing a Roadmap
+
+A short public roadmap helps contributors and users see what the project is focused on, what may follow, and which ideas are out of scope. Start with the [roadmap template](../templates/roadmap-template.md), copy it into your project, and replace the examples with your own priorities.
+
+Use the next-three-months and months-four-to-six tables for milestones and their expected outcomes. Mark exploratory work clearly, and treat target periods as planning windows rather than promises. Review the page when priorities change.
 
 ---
 
